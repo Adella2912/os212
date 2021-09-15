@@ -1,3 +1,7 @@
+---
+layout: "layout"
+permalink: /LINKS/
+---
 # **💻Useful Links💻**
 
 ### 1. [Introduction to Operating System](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
