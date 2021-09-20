@@ -42,3 +42,15 @@ ZCZC W02 15 L09 WEEK 02 Assignment No 12 Updating mylog.tx
 ZCZC W02 10 L09 WEEK 02 Assignment No 13 Write a simple "myscript.sh" script to generate SHA256SUM and SHA256SUM.ascZCZC W02 30 L64 Helping OS Related Problems with a friend
 ZCZC W02 40 L02 WEEK 02 OS ZOOM meetings (QnA sessions)
 ZCZC W02 15 L04 Improving my Github page
+
+ZCZC W03 20 L05 Quiz related
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 10 L06 References/Books/Documents/GSGS related for doing assignment
+ZCZC W03 180 L09 02 Assignment No 1
+ZCZC W03 30 L09 02 Assignment No 2
+ZCZC W03 45 L09 02 Assignment No 3
+ZCZC W03 15 L09 02 Assignment No 4
+ZCZC W03 30 L09 02 Assignment No 5
+ZCZC W03 10 L09 02 Assignment No 6
+ZCZC W03 10 L09 02 Assignment No 7
+ZCZC W03 5 L09 02 Assignment No 8
