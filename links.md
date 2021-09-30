@@ -27,3 +27,10 @@ This link is very useful for getting started in C Language as a quick references
 It is important for us to know what is File System. This link help us to answer those question.
 ### 2. [Directory and Disk Structure](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/)
 Through this link, we will know the directory and Disk structure.
+
+
+## WEEK 4
+### 1. [Addressing in OS](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+There are two types of addressing in Operation System. The two types are Logical And Physical Address, through this link, we can understand physical and logical addressing.
+### 2. [Libraries in Linux](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
+Through this link, we will know the definition,benefits, and types of libraries in Linux (Static and Shared/Dynamic).
