@@ -34,3 +34,9 @@ Through this link, we will know the directory and Disk structure.
 There are two types of addressing in Operation System. The two types are Logical And Physical Address, through this link, we can understand physical and logical addressing.
 ### 2. [Libraries in Linux](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
 Through this link, we will know the definition,benefits, and types of libraries in Linux (Static and Shared/Dynamic).
+
+## WEEK 5
+### 1. [Virtual Memory and Caching](https://www.geeksforgeeks.org/difference-between-virtual-memory-and-cache-memory/)
+Through this link, we know the difference of virtual memory and caching
+### 2. [Memory Sets](https://www.ibm.com/docs/en/db2/11.1?topic=allocation-memory-sets-overview)
+Through this link, we will know the overview of memory sets
