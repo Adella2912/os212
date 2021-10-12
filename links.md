@@ -40,3 +40,9 @@ Through this link, we will know the definition,benefits, and types of libraries 
 Through this link, we know the difference of virtual memory and caching
 ### 2. [Memory Sets](https://www.ibm.com/docs/en/db2/11.1?topic=allocation-memory-sets-overview)
 Through this link, we will know the overview of memory sets
+
+
+## WEEK 6
+### 1. [Processes in Operating System](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)
+A process is an instance of a program in execution. This link is pretty detailed, it containes process creation, process scheduling, and process concept.
+
