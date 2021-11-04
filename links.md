@@ -46,3 +46,6 @@ Through this link, we will know the overview of memory sets
 ### 1. [Processes in Operating System](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)
 A process is an instance of a program in execution. This link is pretty detailed, it containes process creation, process scheduling, and process concept.
 
+## WEEK 7
+### 1. [Synchronization & Deadlock](http://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)
+The main topic of WEEK 7 is Synchronization & Deadlock. This link is pretty detailed, it containes all the main topics og Synchronization & Deadlock.
