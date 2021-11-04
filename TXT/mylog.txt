@@ -89,3 +89,33 @@ ZCZC W05 5 L09 02 Assignment No 8
 ZCZC W05 10 L09 02 Assignment No 9 
 ZCZC W05 40 L02 WEEK 02 OS ZOOM meetings (QnA sessions)
 ZCZC W05 15 L04 Improving my Github page
+
+ZCZC W06 20 L05 Quiz related
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06 30 L06 References/Books/Documents/GSGS related for doing assignment
+ZCZC W06 40 L09 02 Assignment No 1 
+ZCZC W06 20 L09 02 Assignment No 2
+ZCZC W06 10 L09 02 Assignment No 3 
+ZCZC W06 20 L09 02 Assignment No 4 
+ZCZC W06 10 L09 02 Assignment No 5 
+ZCZC W06 5 L09 02 Assignment No 6 
+ZCZC W06 10 L09 02 Assignment No 7  
+ZCZC W06 5 L09 02 Assignment No 8 
+ZCZC W06 15 L09 02 Assignment No 9 
+ZCZC W06 40 L02 WEEK 02 OS ZOOM meetings (QnA sessions)
+ZCZC W06 10 L04 Improving my Github page
+
+ZCZC W07 20 L05 Quiz related
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07 15 L06 References/Books/Documents/GSGS related for doing assignment
+ZCZC W07 20 L09 02 Assignment No 1 
+ZCZC W07 10 L09 02 Assignment No 2
+ZCZC W07 10 L09 02 Assignment No 3 
+ZCZC W07 30 L09 02 Assignment No 4 
+ZCZC W07 10 L09 02 Assignment No 5 
+ZCZC W07 5 L09 02 Assignment No 6 
+ZCZC W07 10 L09 02 Assignment No 7  
+ZCZC W07 5 L09 02 Assignment No 8 
+ZCZC W07 20 L09 02 Assignment No 9 
+ZCZC W07 30 L02 WEEK 02 OS ZOOM meetings (QnA sessions)
+ZCZC W07 20 L04 Improving my Github page
