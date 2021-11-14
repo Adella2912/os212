@@ -49,3 +49,7 @@ A process is an instance of a program in execution. This link is pretty detailed
 ## WEEK 7
 ### 1. [Synchronization & Deadlock](http://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)
 The main topic of WEEK 7 is Synchronization & Deadlock. This link is pretty detailed, it containes all the main topics og Synchronization & Deadlock.
+
+## WEEK 8
+### 1. [Multiple processor scheduling](https://binaryterms.com/multiple-processor-scheduling.html#:~:text=Multiple%20processor%20scheduling%20or%20multiprocessor,it%20makes%20scheduling%20more%20complex.)
+The main topic of WEEK 8 is Multiple processor scheduling. This link is pretty detailed, it containes all the main topics of Multiple processor scheduling.
