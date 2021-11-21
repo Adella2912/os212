@@ -53,7 +53,3 @@ The main topic of WEEK 7 is Synchronization & Deadlock. This link is pretty deta
 ## WEEK 8
 ### 1. [Multiple processor scheduling](https://binaryterms.com/multiple-processor-scheduling.html#:~:text=Multiple%20processor%20scheduling%20or%20multiprocessor,it%20makes%20scheduling%20more%20complex.)
 The main topic of WEEK 8 is Multiple processor scheduling. This link is pretty detailed, it containes all the main topics of Multiple processor scheduling.
-
-## WEEK 9
-### 1. [Boot Loader](https://www.techopedia.com/definition/3324/boot-loader#:~:text=A%20boot%20loader%20is%20a,boot%20manager%20or%20bootstrap%20loader.)
-The main topic of WEEK 8 is boot loader. This link is pretty detailed, it containes all the main topics of Boot Loader in Operation System.
